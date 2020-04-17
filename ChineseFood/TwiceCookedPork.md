@@ -19,7 +19,7 @@ Recipe Source: "Every Grain of Rice" by Fuchsia Dunlop
 1) Place meat and cold water in a pot and bring water to boil. Once boiling, reduce the temperature and let meat simmer for 20 minutes or until the meat is fully cooked through.
 2) After the meat is cooked, let it cool fully either by leaving out or by placing it in the fridge.
 3) When you're realy to cook, slice the meat into 1/8 inch slices. Then place into your hot wok.
- - Stove should be on Medium
+     - Stove should be on Medium
 4) Cook meat until lightly browned and tips begin to curl. 
 5) Once meat is cooked, move it away from the center of the wok. Add 1 tbsp chili bean paste and stirfry until oil is red and fragrant.
 6) Then, add 2 tsp black beans & 1 tsp sweet fermented sauce and stir fry for a few sec
