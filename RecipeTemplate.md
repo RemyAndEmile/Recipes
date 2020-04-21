@@ -1,6 +1,7 @@
 ### About
 Dish: 
 Recipe Source: 
+Servings:
 
 ### Ingredients
 
