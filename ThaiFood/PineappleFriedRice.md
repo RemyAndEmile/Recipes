@@ -36,5 +36,8 @@ Servings: 2
 
 ### Notes
 - \[4/22/20]
-    - Subs:
+    - Adjustment:
         - shrimp => shrimp and 1/2 of a chicken breast
+        - added raisins
+        - added more curry powder than the recipe called for, since the flavor wasn't really coming through + it wasn't the color I wanted
+        
