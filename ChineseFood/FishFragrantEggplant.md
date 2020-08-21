@@ -38,3 +38,6 @@ Recipe Source: "Every Grain of Rice" by Fuchsia Dunlop
         - try dredging eggplant before frying
         - try using basalmic vinegar as a substitute to see if we can still get a similar flavor
         - try adding sichuan peppercorn?
+- \[8/20/20]
+    - Subs:
+        - 3 tbsp cooking oil => 1 tbsp lard + 2 tbsp cooking oil (OK) Slight porky taste
