@@ -4,7 +4,7 @@ Recipe Source: https://mykoreankitchen.com/korean-style-sausage-stir-fry/
 Servings: 4
 
 ### Ingredients
-- 200g/7 ounces Korean style Vienna sausages or cocktail Frankfurt sausages (I actually prefer cocktail Frankfurt sausage for this recipe!) (*see note)
+- 200g/7 ounces sausages (Hebrew National)
 - 70g/2.5 ounces bell peppers (yellow, red or green), julienned
 - 40g/1.4 ounces onion, julienned
 - Some cooking oil (I used rice bran oil)
